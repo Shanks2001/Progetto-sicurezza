@@ -43,7 +43,7 @@ Valutare la resilienza di una piattaforma gestionale Laravel (autenticazione, ge
 
 ## 📄 Report completo
 
-Il report integrale (PDF), con tutti gli output dei tool, gli screenshot e l'analisi dettagliata di ogni fase, è disponibile in [`/report/Documento_Sicurezza.pdf`](./report/Documento_Sicurezza.pdf).
+Il report integrale (PDF), con tutti gli output dei tool, gli screenshot e l'analisi dettagliata di ogni fase, è disponibile in [`Documento_Sicurezza.pdf`](Documento_Sicurezza.pdf).
 
 ## 📁 Struttura consigliata della repository
 
