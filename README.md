@@ -50,9 +50,7 @@ Il report integrale (PDF), con tutti gli output dei tool, gli screenshot e l'ana
 ```
 .
 ├── README.md
-├── report/
-│   └── Documento_Sicurezza.pdf
-└── screenshots/          # eventuali immagini estratte dal report
+├── Documento_Sicurezza.pdf
 ```
 
 ## 🧰 Competenze dimostrate
